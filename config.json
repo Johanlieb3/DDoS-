@@ -1,0 +1,17 @@
+{
+  "bot_token": "7847521628:AAHn0CiVxcWZF2mG0leMLzRTsCS134xz0PE",
+  "allowed_user_ids": [6739293472, 9876543, 5555555],
+  "available_methods": ["HTTP", "HTTPS"],
+  "api_endpoints": {
+    "HTTP": [
+      "https://api.niqqa.com?b8b9e236dd578d07621f5a8174a891d9=myapikey&method=HTTP-SUPER&host={host}&time={time}",
+      "https://api.blackpoeple.com?b8b9e236dd578d07621f5a8174a891d9=myapikey&method=HTTP-SUPER&host={host}&time={time}",
+      "https://api.segs.com?b8b9e236dd578d07621f5a8174a891d9=myapikey&method=HTTP-SUPER&host={host}&time={time}"
+    ],
+    "HTTPS": [
+      "https://api.niqqa.com?b8b9e236dd578d07621f5a8174a891d9=myapikey&method=HTTPS-SUPER&host={host}&time={time}",
+      "https://api.blackpoeple.com?b8b9e236dd578d07621f5a8174a891d9=myapikey&method=HTTPS-SUPER&host={host}&time={time}",
+      "https://api.segs.com?b8b9e236dd578d07621f5a8174a891d9=myapikey&method=HTTP-SUPER&host={host}&time={time}"
+    ]
+  }
+}
